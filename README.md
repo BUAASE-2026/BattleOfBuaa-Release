@@ -1,6 +1,4 @@
 # BattleOfBuaa-Release
-[TOC]
-
 <img src="./figure/Logo.png" alt="Logo" style="zoom: 10%;" />
 
 **《Battle of BUAA》是一款融合娱乐与博弈的多人对战策略类手游。**
