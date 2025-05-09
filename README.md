@@ -9,7 +9,7 @@
 
 **游戏宣传视频**
 
-请在Bilibili上观看我们的视频！[Battle of BUAA](https://www.bilibili.com/video/BV1d353zyE58/)
+请在Bilibili上观看我们的视频！[Battle of BUAA](https://www.bilibili.com/video/BV1d353zyE58/?vd_source=3fe69275d3666b849366f3a46d4f651f)
 
 ![](figure/show.gif)
 
