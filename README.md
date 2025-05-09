@@ -9,7 +9,9 @@
 
 **游戏宣传视频**
 
-<video src="./figure/show.mp4" autoplay="true" controls="controls" width="800" height="600"> </video>
+请在Bilibili上观看我们的视频！[Battle of BUAA](https://www.bilibili.com/video/BV1d353zyE58/)
+
+![](figure/show.gif)
 
 ## 游戏启动方式
 
@@ -19,7 +21,7 @@
 
 1. 玩家可以通过直接运行客户端进行游戏。通过邮箱与密码进行登录。
 
-<img src="./figure/beginner.png" style="zoom:20%;" >
+<img src="./figure/beginner.png" style="zoom:20%;" 
 
 ​	针对初次游戏的玩家，请先完成注册。
 
