@@ -7,7 +7,9 @@
 
 在这里你可以获取Battle of BUAA的最新Release版本，我们同样欢迎在此仓库提交issue，帮助我们完善游戏。
 
+**游戏宣传视频**
 
+<video src="./figure/show.mp4" autoplay="true" controls="controls" width="800" height="600"> </video>
 
 ## 游戏启动方式
 
