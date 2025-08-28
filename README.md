@@ -1,7 +1,7 @@
 # BattleOfBuaa-Release
 <img src="./figure/Logo.png" alt="Logo" style="zoom: 10%;" />
 
-**《Battle of BUAA》是一款融合娱乐与博弈的多人对战策略类手游。**
+**《Battle of BUAA》是一款融合娱乐与博弈的多人对战策略类游戏。**
 
 在游戏中，玩家需要灵活招募各类英雄，巧妙搭配羁绊，打造专属强力阵容。在不断变化的战局中运筹帷幄，击败对手，最终登顶战场，赢得胜利！
 
